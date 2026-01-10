@@ -6,3 +6,7 @@ Além disso, o Node.js utiliza arquitetura orientada a eventos e I/O não bloque
 Node.js também conta com forte apoio da comunidade, atualizações frequentes e integração com ferramentas de segurança, testes e monitoramento, tornando o desenvolvimento backend mais produtivo, confiável e alinhado às boas práticas do mercado.
 
 Além disso, é compatível com arquiteturas modernas como REST e GraphQL, facilita a manutenção do código e permite criar soluções eficientes para aplicações web, mobile e sistemas corporativos.
+
+<p align="center">
+    <img src="./src/assets/images/capa_backend_node.png" alt="Backend com Node.js" width="100%">
+</p>
