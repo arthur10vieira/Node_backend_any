@@ -1,0 +1,39 @@
+{
+  "name": "node_backend_any",
+  "version": "1.0.0",
+  "description": "Backend com Node.js é focado no desenvolvimento do lado servidor usando JavaScript. Ele permite criar APIs rápidas e escaláveis, lidar com bancos de dados, autenticação e regras de negócio. É muito usado com Express, NestJS e integra-se bem a aplicações web modernas.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur10vieira/Node_backend_any.git"
+  },
+  "keywords": [],
+  "author": "Arthur Henrique Vieira Cambraia",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arthur10vieira/Node_backend_any/issues"
+  },
+  "homepage": "https://github.com/arthur10vieira/Node_backend_any#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "sequelize-cli": "^6.6.5"
+  }
+}
